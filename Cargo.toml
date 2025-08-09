@@ -1,0 +1,9 @@
+[package]
+name = "rover"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ggez = "0.9"
+glam = { version = "0.24", features = ["mint"] }
+rand = "0.8"
